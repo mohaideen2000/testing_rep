@@ -8,7 +8,7 @@ sap.ui.define([
 		text: "Hello World mohaideen and hari and pradish"
 	});
 	var oText = new Text({
-    text: "from test1 one"
+    text: "from test1 one added"
 	});
 	var oText = new Text({
 		text: "Hello World mohaideen and hari and mani"
