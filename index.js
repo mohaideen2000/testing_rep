@@ -8,8 +8,13 @@ sap.ui.define([
 		text: "Hello World mohaideen and hari and pradish"
 	});
 	var oText = new Text({
-		text: "Hello World mohaideen and hari and pradish"
+		text: "Hello World mohaideen and hari and mani"
 	});
+	new VBox({
+		ustifyContent: "Center",
+		alignItems: "Center",
+		items: [oText]
+	}).placeAt("content");
 	new VBox({
 		ustifyContent: "Center",
 		alignItems: "Center",
