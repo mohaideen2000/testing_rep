@@ -8,6 +8,9 @@ sap.ui.define([
 		text: "Hello World mohaideen and hari and pradish"
 	});
 	var oText = new Text({
+		text: "java server"
+	});
+	var oText = new Text({
 		text: "Hello World mohaideen and hari and mani"
 	});
 	new VBox({
